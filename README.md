@@ -1,1 +1,1 @@
-# javaScript
+# javaScript small projects
